@@ -13,7 +13,7 @@ title                    : "Junteng Liu (刘俊腾)"
 title_separator          : "-"
 name                     : &name "Junteng Liu (刘俊腾)"
 description              : &description "First-year PhD candidate at HKUST NLP Group researching LLM Reasoning, VLM Hallucination, and LLM Truthfulness."
-url                      : https://academicpages.github.io
+url                      : https://aphandfaitz.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "aphandfaitz/LJT-Homepage"
 
